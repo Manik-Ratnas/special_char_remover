@@ -1,5 +1,7 @@
 # SpecialCharRemover
 
+[![Gem Version](https://badge.fury.io/rb/special_char_remover.png)](http://badge.fury.io/rb/special_char_remover)
+
 A gem to translate a string with special characters into string without special characters. 
 
 ## Installation
