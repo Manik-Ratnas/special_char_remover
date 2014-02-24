@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = SpecialCharRemover::VERSION
   spec.authors       = ["Manish Puri"]
   spec.email         = ["manishspuri@gmail.com"]
-  spec.summary       = %q{Remove special characters from your strings.}
-  spec.description   = %q{Gem to remove special characters from your string.}
-  spec.homepage      = ""
+  spec.summary       = %q{Translate special characters from your strings.}
+  spec.description   = %q{Gem to translate special characters from your string.}
+  spec.homepage      = "https://github.com/Manik-Ratnas/special_char_remover"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
