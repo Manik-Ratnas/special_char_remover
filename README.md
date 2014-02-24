@@ -1,6 +1,6 @@
 # SpecialCharRemover
 
-A gem to translate special characters into normal strings. 
+A gem to translate a string with special characters into string without special characters. 
 
 ## Installation
 
@@ -37,3 +37,7 @@ Thats it ;)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+
+:collision: :collision: :collision:
